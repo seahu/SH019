@@ -1,6 +1,6 @@
 #include <OneWire.h>
 
-// OneWire HC-SR04 Distance measure Example
+// OneWire SEAHU SH019 RFID card reader Example
 //
 // http://www.pjrc.com/teensy/td_libs_OneWire.html
 //
